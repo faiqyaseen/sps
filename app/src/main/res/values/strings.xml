@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sps project</string>
+    <string-array name="branches_array">
+        <item>Select Branch</item>
+        <item>SFC Branch</item>
+        <item>Korangi Branch</item>
+        <item>Nazimabad Branch</item>
+        <item>Metro Branch</item>
+        <item>Saddar Branch</item>
+        <item>Gulshan e Iqbal Brnach</item>
+        <item>Defence Branch</item>
+    </string-array>
+</resources>
